@@ -1,4 +1,4 @@
 import streamlit as st
 import streamlit.components.v1 as components
 st.title('🎈 Presentation App')
-components.iframe("https://www.canva.com/design/DAGL3lqD0iY/4rI3RGYxPBXUrUUczq7sbw/edit?utm_content=DAGL3lqD0iY&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton", height=512)
+components.iframe("https://docs.google.com/presentation/d/e/2PACX-1vTncSpGol8itdlpgVs2RO8rpKd-hcv_tDr_z6OnOTcsq8ddW6b_-O3i3SqHLMx5s6M_M0prwLX62fH_/embed?start=false&loop=false&delayms=3000", height=512)
